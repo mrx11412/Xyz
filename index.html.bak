@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>I'm a simple boy</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="Mehedi Hasan official">
+
+  <meta name="keywords" content="mrxmehedi">
+
+  <meta name="author" content="mrxmehedi">
+
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+  <link rel="shortcut icon" href="https://i.postimg.cc/pTKz6JhV/20241204-215436.jpg" />
+
+  <meta property="og:title" content="Hello, my name is Mehedi. This is my official website." />
+
+  <meta property="og:description" content="Hello, my name is Mehedi. This is my official website." />
+
+  <meta property="og:image" content="https://i.ibb.co/Dpjy0x8/IMG-20240608-165027.jpg" />
+
+  <meta name="robots" content="index,follow">
+
+  <link rel="stylesheet" href="style.css">
+
+  <title>Mehedi||official</title>
+
+</head>
+
+<body>
+
+  <div class="container" onclick="toggleProfile()">
+
+    <div class="img-container">
+        <img src="image.jpg" alt="">
+
+      
+
+    </div>
+
+    <p class="full-name">It’z Mehedi</p>
+
+    <p class="role">Welcome to my Website</p>
+
+    
+    <div id="auto-typing" class="text-center"></div>
+
+   
+
+    <br>
+
+    
+<div class="skills-container">
+        <h2>PRIVATE ZONE</h2>
+        <div class="skills-grid">
+
+            <a href="link" target="_blank" class="skill-button">H TOOLS</a>
+            <a href="link" target="_blank" class="skill-button"> DRIVE </a>
+            
+            
+            
+        
+
+</div>
+    </div>
+
+
+
+    <div class="social-container">
+
+      <button><a href="https://www.facebook.com/mrxmehedi404" target="_blank"style="color: #5656ff; text-decoration: none;"><i class="fab fa-facebook"></i></a></button>
+
+      <button>
+  <a href="mailto:mrx.mehedi.2007@gmail.com" target="_blank" style="color: #5656ff; text-decoration: none;">
+    <i class="fa fa-envelope"></i>
+  </a>
+</button>
+
+      <button><a href="https://github.com/mrx-mehedi" target="_blank"style="color: #5656ff; text-decoration: none;"><i class="fab fa-github"></i></a></button>
+
+    </div>
+
+  </div>
+
+  <div id="stars"></div>
+
+  <div id="comets"></div>
+
+  <script  src="script.js"></script>
+
+</body>
+
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
